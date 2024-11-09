@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting to github.com/poezedoez/</title>
+    <meta http-equiv="refresh" content="0; URL=https://github.com/poezedoez">
+    <link href="https://github.com/poezedoez" rel="me">
+    <link href="https://mastodon.social/@Ragger" rel="me">
+  </head>
+  <body style="margin: 0; padding: 0">
+    <a
+      href="https://github.com/simonw"
+      style="
+        display: block;
+        height: 100vh;
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        color: white;
+      "
+    >
+      github.com/poezedoez
+    </a>
+  </body>
+</html>
